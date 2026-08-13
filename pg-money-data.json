@@ -22,6 +22,15 @@
       "item": "Food",
       "personId": "01rxbag12",
       "photo": null
+    },
+    {
+      "id": 1786644613428,
+      "date": "2026-08-13",
+      "type": "Expense",
+      "amount": 120,
+      "item": "Food 🥑",
+      "personId": "3tf463lcf",
+      "photo": null
     }
   ],
   "settlements": [],
