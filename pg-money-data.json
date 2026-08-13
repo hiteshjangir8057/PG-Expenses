@@ -49,6 +49,15 @@
       "category": "Grocery",
       "personId": "3tf463lcf",
       "type": "Expense"
+    },
+    {
+      "id": 1786648735622.2231,
+      "date": "2026-08-13",
+      "item": "Kl",
+      "amount": 60,
+      "category": "Food",
+      "personId": "3tf463lcf",
+      "type": "Expense"
     }
   ],
   "settlements": [],
