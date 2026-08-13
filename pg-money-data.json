@@ -40,6 +40,15 @@
       "category": "Food",
       "personId": "01rxbag12",
       "type": "Expense"
+    },
+    {
+      "id": 1786648703239.5867,
+      "date": "2026-08-13",
+      "item": "Apple",
+      "amount": 30,
+      "category": "Grocery",
+      "personId": "3tf463lcf",
+      "type": "Expense"
     }
   ],
   "settlements": [],
