@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "01rxbag12",
+      "name": "Hitesh"
+    },
+    {
+      "id": "3tf463lcf",
+      "name": "Dinesh"
+    },
+    {
+      "id": "ffiivqin1",
+      "name": "Satish"
+    }
+  ],
+  "entries": [
+    {
+      "id": 1786644483532,
+      "date": "2026-08-13",
+      "type": "Expense",
+      "amount": 50,
+      "item": "Food",
+      "personId": "01rxbag12",
+      "photo": null
+    }
+  ],
+  "settlements": [],
+  "categories": []
+}
