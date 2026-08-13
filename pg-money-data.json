@@ -34,5 +34,7 @@
     }
   ],
   "settlements": [],
-  "categories": []
+  "categories": [
+    "Food"
+  ]
 }
