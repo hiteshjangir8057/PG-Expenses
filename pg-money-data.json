@@ -24,12 +24,30 @@
       "photo": null
     },
     {
+      "id": 1786644613428,
+      "date": "2026-08-13",
+      "type": "Expense",
+      "amount": 120,
+      "item": "Food 🥑",
+      "personId": "3tf463lcf",
+      "photo": null
+    },
+    {
       "id": 1786646390968.43,
       "date": "2026-08-13",
       "item": "Milk",
       "amount": 25,
       "category": "Milk",
       "personId": "ffiivqin1",
+      "type": "Expense"
+    },
+    {
+      "id": 1786648113768.3816,
+      "date": "2026-08-13",
+      "item": "Mango",
+      "amount": 500,
+      "category": "Food",
+      "personId": "01rxbag12",
       "type": "Expense"
     }
   ],
