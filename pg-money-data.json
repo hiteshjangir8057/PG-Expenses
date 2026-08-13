@@ -31,6 +31,15 @@
       "item": "Food 🥑",
       "personId": "3tf463lcf",
       "photo": null
+    },
+    {
+      "id": 1786646390968.43,
+      "date": "2026-08-13",
+      "item": "Milk",
+      "amount": 25,
+      "category": "Milk",
+      "personId": "ffiivqin1",
+      "type": "Expense"
     }
   ],
   "settlements": [],
