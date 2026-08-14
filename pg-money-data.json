@@ -49,6 +49,16 @@
       "category": "Food",
       "personId": "3tf463lcf",
       "type": "Expense"
+    },
+    {
+      "id": 1786718234412.1135,
+      "date": "2026-08-14",
+      "item": "Banana",
+      "amount": 50,
+      "category": "Food",
+      "personId": "3tf463lcf",
+      "type": "Paid",
+      "note": ""
     }
   ],
   "settlements": [],
