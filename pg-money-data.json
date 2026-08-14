@@ -33,15 +33,6 @@
       "type": "Expense"
     },
     {
-      "id": 1786648113768.3816,
-      "date": "2026-08-13",
-      "item": "Mango",
-      "amount": 500,
-      "category": "Food",
-      "personId": "01rxbag12",
-      "type": "Expense"
-    },
-    {
       "id": 1786648703239.5867,
       "date": "2026-08-13",
       "item": "Apple",
