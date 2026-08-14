@@ -1,1 +1,1 @@
-{"users":[{"id":"01rxbag12","name":"Hitesh"},{"id":"3tf463lcf","name":"Dinesh"},{"id":"ffiivqin1","name":"Satish"}],"entries":[],"settlements":[],"categories":["Food","Grocery","Milk"]}
+{"users":[{"id":"01rxbag12","name":"Hitesh"},{"id":"3tf463lcf","name":"Dinesh"},{"id":"ffiivqin1","name":"Satish"}],"entries":[{"id":"1786727182271.872","date":"2026-08-14","item":"Apple ","amount":50,"category":"Food","personId":"01rxbag12","type":"Expense","note":"pradeep store"}],"settlements":[],"categories":["Food","Grocery","Milk"]}
