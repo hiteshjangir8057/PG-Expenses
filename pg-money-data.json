@@ -59,6 +59,16 @@
       "personId": "3tf463lcf",
       "type": "Paid",
       "note": ""
+    },
+    {
+      "id": 1786720434608.9844,
+      "date": "2026-08-14",
+      "item": "Apple",
+      "amount": 150,
+      "category": "Food",
+      "personId": "ffiivqin1",
+      "type": "Expense",
+      "note": ""
     }
   ],
   "settlements": [],
